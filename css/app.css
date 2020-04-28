@@ -1,0 +1,29 @@
+body {
+  background: #f8f8f8;
+  overflow: hidden;
+  font-family: 'Roboto', sans-serif; }
+
+.wrap-all {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.svg-box {
+  display: block;
+  text-align: center;
+  padding: 15px; }
+  .svg-box svg {
+    width: 400px; }
+
+.text-box {
+  padding: 15px; }
+  .text-box p {
+    font-size: 1.2rem;
+    margin: 0; }
+  .text-box h1 {
+    font-size: 4rem;
+    margin: 0; }
+
+/*# sourceMappingURL=app.css.map */
